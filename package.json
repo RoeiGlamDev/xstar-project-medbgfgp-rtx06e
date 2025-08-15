@@ -1,0 +1,42 @@
+{
+  "name": "luxery-dark-airbnb",
+  "version": "1.0.0",
+  "description": "A luxurious dark-themed AirBNB website designed for a high-end experience, showcasing properties in an elegant and sophisticated manner.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "axios": "^0.21.1",
+    "react-router-dom": "^6.20.0",
+    "dotenv": "^10.0.0",
+    "next": "^14.2.5",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4",
+    "autoprefixer": "^10.4.19"
+  },
+  "devDependencies": {
+    "jest": "^26.6.0",
+    "typescript": "^5.4.5",
+    "@types/node": "^20.14.2",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0"
+  },
+  "keywords": [
+    "AirBNB",
+    "luxury",
+    "dark design",
+    "technology",
+    "real estate"
+  ],
+  "author": "luxery dark AirBNB",
+  "license": "MIT",
+  "private": true
+}
